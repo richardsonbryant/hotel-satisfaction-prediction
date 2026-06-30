@@ -1,0 +1,11 @@
+Variabel,Q1,Q3,IQR,Batas Bawah,Batas Atas,Jumlah Outlier,Persentase Outlier (%)
+overall_score,8.9,9.2,0.3,8.45,9.65,56,1.14
+cleanliness,8.8,9.3,0.5,8.05,10.05,0,0.0
+location,9.0,9.4,0.4,8.4,10.0,13,0.26
+service,8.9,9.3,0.4,8.3,9.9,46,0.93
+facility,8.4,9.1,0.7,7.35,10.15,1,0.02
+value_for_money,8.8,9.2,0.4,8.2,9.8,74,2.07
+comfort,8.9,9.3,0.4,8.3,9.9,5,0.41
+meal,8.4,8.8,0.4,7.8,9.4,8,0.96
+free_wifi,7.3,7.7,0.4,6.7,8.3,1,0.25
+amenities,8.2,8.6,0.4,7.6,9.2,4,0.77

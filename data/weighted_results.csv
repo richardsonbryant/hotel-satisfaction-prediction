@@ -1,0 +1,6 @@
+Model,RMSE_Train,RMSE_Test,MAE_Test,R2_Train,R2_Test,Overfit
+SVR (Weighted),0.1475,0.1528,0.1228,0.6234,0.6275,✅ Normal (gap=-0.0041)
+Ridge (Weighted),0.1496,0.1531,0.123,0.6126,0.626,✅ Normal (gap=-0.0134)
+XGBoost (Weighted),0.1413,0.1561,0.1256,0.6541,0.6109,✅ Normal (gap=0.0432)
+LightGBM (Weighted),0.1379,0.1563,0.1261,0.6708,0.6102,✅ Normal (gap=0.0606)
+Random Forest (Weighted),0.0623,0.1606,0.1284,0.9329,0.5882,⚠️ OVERFIT (gap=0.3447)
