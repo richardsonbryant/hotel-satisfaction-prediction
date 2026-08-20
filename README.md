@@ -3,7 +3,6 @@
 > Sistem prediksi kepuasan tamu hotel berbasis Machine Learning, dibangun dari data rating lintas 5 platform OTA (Online Travel Agency), lengkap dengan dashboard analitik dan aplikasi web interaktif.
 
 **Status:** 🚧 Skripsi (Tugas Akhir) — CRISP-DM Methodology
-**Program Studi:** S1 Ilmu Komputer — BINUS University
 
 ---
 
