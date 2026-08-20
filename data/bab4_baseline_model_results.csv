@@ -1,6 +1,0 @@
-Model,RMSE Train,RMSE Test,MAE Test,R2 Train,R2 Test,Gap,Status
-SVR (Tuned),0.1476,0.1527,0.1229,0.6229,0.6277,-0.0048,Normal
-Ridge (Tuned),0.1495,0.1531,0.1229,0.6129,0.6258,-0.0129,Normal
-XGBoost (Tuned),0.1408,0.1556,0.1248,0.6569,0.6135,0.0434,Normal
-LightGBM (Tuned),0.1372,0.156,0.1257,0.6738,0.6114,0.0624,Normal
-Random Forest,0.0626,0.1613,0.129,0.9321,0.5849,0.3472,Overfit

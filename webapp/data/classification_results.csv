@@ -1,6 +1,0 @@
-Model,Acc_Train,Acc_Test,Precision,Recall,F1_Train,F1_Test,Overfit
-Ridge Classifier (Tuned),0.8044,0.7964,0.7971,0.7964,0.8042,0.7958,✅ Normal (gap=0.0080)
-XGBoost (Tuned),0.8221,0.7913,0.7913,0.7913,0.822,0.7911,✅ Normal (gap=0.0308)
-Random Forest (Baseline),0.8581,0.7872,0.7872,0.7872,0.858,0.787,✅ Normal (gap=0.0709)
-LightGBM (Tuned),0.8355,0.7862,0.7862,0.7862,0.8355,0.7862,✅ Normal (gap=0.0493)
-KNN Classifier (Tuned),0.9992,0.7791,0.78,0.7791,0.9992,0.7784,⚠️  OVERFIT (gap=0.2201)

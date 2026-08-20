@@ -1,6 +1,0 @@
-Platform,N Data Test,RMSE,MAE,R²
-Trip.com,104,0.1672,0.1347,0.508
-Agoda,449,0.1443,0.118,0.5029
-Booking.com,80,0.1567,0.1339,0.4563
-Tiket.com,187,0.1668,0.1288,0.4511
-Traveloka,167,0.1666,0.1328,0.4339

@@ -1,6 +1,0 @@
-Model,R² Test,Bias Platform,Overfit Risk,Saveable SHAP,Native FI,Prediction Speed,Website Ready
-SVR,0.6581,✅ Low,✅ No,❌ No,❌ No,⚠️ Slow,❌ No
-Ridge,0.6534,✅ Low,✅ No,✅ Yes,⚠️ Seragam,✅ Fast,⚠️ Partial
-XGBoost,0.6421,✅ Low,✅ No,✅ Yes,✅ Yes,✅ Fast,✅ Yes
-LightGBM,0.6389,✅ Low,✅ No,✅ Yes,✅ Yes,✅ Fast,✅ Yes
-Random Forest,0.6163,⚠️ Medium,❌ Yes,✅ Yes,✅ Yes,✅ Fast,⚠️ Overfit

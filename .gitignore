@@ -1,6 +1,16 @@
 __pycache__/
 .ipynb_checkpoints/
+venv/
 .venv/
 .env
 .DS_Store
 .vscode/
+*.pyc
+
+# Data (confidential - data stakeholder)
+data/*.csv
+webapp/data/*.csv
+
+# Models (opsional, biasanya besar & bisa di-regenerate)
+models/*.pkl
+webapp/models/*.pkl
